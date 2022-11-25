@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Sune Seifert](https://bqardi.dk)
+- Frontend Mentor - [@bqardi](https://www.frontendmentor.io/profile/bqardi)
